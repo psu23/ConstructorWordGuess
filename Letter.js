@@ -9,7 +9,7 @@ class Letter {
             return this.character;
         }
         else {
-            return " -";
+            return "-";
         }
     }
 
